@@ -11,7 +11,7 @@
 	\subtitle{Relazione Fisica dei Dispositivi Integrati}
 	%\logo{}
 	%\institute{}
-	%\date{}
+	\date{24 Ottobre 2019}
 	%\subject{}
 	\setbeamercovered{transparent}
 	%\setbeamertemplate{navigation symbols}{}
@@ -21,11 +21,11 @@
 	
 	\begin{frame}
 		\frametitle{Introduzione: alcuni concetti base}
-		\begin{figure}[h]
+		\begin{figure}
 			\centering
-			\includegraphics[width=0.9\textwidth]{IMMAGINI/arraydiag}
+			\includegraphics[width=1\linewidth]{IMMAGINI/TFT_tras}
 			\caption{Transistor TFT}
-			\label{TFT}
+			\label{fig:tfttras}
 		\end{figure}
 	\end{frame}
 	\begin{frame}
@@ -115,14 +115,14 @@
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-	\frametitle{24-INCH WIDE UXGA TFT-LCD per applicazioni HDTV:  Metodi}
+	\frametitle{24-INCH WIDE UXGA TFT-LCD per applicazioni HDTV:  Possibili Soluzioni}
 		\begin{itemize}
 			\item Se ci sono questi problemi è possibile implementare lo split delle data line
 			\pause
 			\item Si riduce così il clock e il data rate abbastanza
 			da usare un device con frequenze molto più basse
-			\pause
-			\item 4 differenti bus dati sono richiesti per poter gestire questi 4 blocchi dati differenti
+			%\pause
+			%\item 4 differenti bus dati sono richiesti per poter gestire questi 4 blocchi dati differenti
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
@@ -214,16 +214,15 @@
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Circuiti driver per gli schermi OLED}
 		I circuiti OLED possono essere divisi in due classi:
 		\begin{itemize}
-			\item Circuiti sul voltaggio
+			\item Circuiti guidati dal voltaggio
 			\pause
-			\item Circuiti sulla corrente
+			\item Circuiti guidati dalla corrente
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Voltage-programming driver circuits}
 		\begin{itemize}
 			\item Il più semplice circuito chiamato 2-TFT, può essere creato tramite due TFT (T1 e T2)
-			\pause
 			\begin{figure}
 				\centering
 				\includegraphics[width=0.7\linewidth]{FISICA/tft_oled_driver}
@@ -251,7 +250,6 @@
 		\begin{itemize}
 			\item Introducendo questa miglioria, il circuito risultante sarà denominato 4-TFT
 		\end{itemize}
-		\pause
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.7\linewidth]{FISICA/tft_oled_maggiore}
@@ -261,7 +259,9 @@
 	\end{frame}
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Current-programming driver circuits}
-		Possiamo settare in maniera precisa la corrente che viene data allo schermo OLED con un approccio basato sulla programmazione di corrente
+		\begin{itemize}
+			\item Possiamo settare in maniera precisa la corrente che viene data allo schermo OLED con un approccio basato sulla programmazione di corrente
+		\end{itemize}
 	\end{frame}
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Current-programming driver circuits}
@@ -274,7 +274,9 @@
 	\end{frame}
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Current-programming driver circuits}
-		Una variante migliore rispetto alla precedente, introduce una circuito driver con memoria. Questo permetterà di ottenere migliori prestazioni in quanto è possibile tenere "in memoria" un certo voltaggio
+		\begin{itemize}
+			\item Una variante migliore rispetto alla precedente, introduce una circuito driver con memoria. Questo permetterà di ottenere migliori prestazioni in quanto è possibile salvare il voltaggio precedente
+		\end{itemize}
 	\end{frame}
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Current-programming driver circuits}
@@ -294,11 +296,10 @@
 	\begin{frame}
 		\frametitle{Pixel AMOLED basati su circuiti in poly-Si TFTs: Conclusioni}
 		\begin{itemize}
-			\item Tra le differenti topologie, la migliore è la 4-TFT con la quale la velocità è 10 volte più alta rispetto alla
-			topologia basate su corrente e con un risparmio del 30\% più alto. Però, se il 10\%
-			della variazione sul drenaggio della corrente è dovuto alla variazione di mobilità,
-			questo non può essere accettato e quindi si passa ad una topologia basata su
-			corrente
+			\item Il migliore circuito risulta essere il 2-TFT, in termini di velocità, consumo energetico e area occupata. Ma è molto sensibile alla mobilità e alla soglia di tensione
+			\pause
+			\item La migliore, quindi è la 4-TFT con la quale la velocità è 10 volte più alta rispetto alla
+			topologia basate su corrente e con un risparmio del 30\% più alto. Le prestazioni sono ottime grazie alla combinazione dei TFT che permettono di controllare la corrente
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
@@ -444,7 +445,7 @@
 		\end{figure}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Test su pannello flessibile ad alte temperature e alte umidità}
+		\frametitle{Misurazione del rate di trasmissione del vapore acqueo}
 		\begin{figure}
 			\centering
 			\includegraphics[width=1\linewidth]{FISICA/test_temp}
@@ -551,7 +552,7 @@
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Cristallizzazione ELA}
+		\frametitle{Cristallizzazione ELA (Excimer Laser Annealing)}
 			\begin{figure}
 				\centering
 				\includegraphics[width=1\linewidth]{"FISICA/ELA cristallizzazione"}
@@ -572,13 +573,15 @@
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Alternativa di ELA}
+		\frametitle{Alternativa di ELA: Ossido TFT}
 		\begin{itemize}
 			\item Si uniscono i vantaggi derivanti da a-Si e LTPS
+			\pause
+			\item Si creano dei vantaggi per quanto riguarda la mobilità e la stabilità
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Processo produttivo a-Si e LTPS}
+		\frametitle{Ossido TFT}
 		\begin{itemize}
 			\item Molto simile al processo che viene fatto attraverso a-Si
 			\pause
@@ -594,15 +597,15 @@
 			\label{fig:produzione-ltps--a-si}
 		\end{figure}
 	\end{frame}
-	\begin{frame}
-		\frametitle{Tecnologia Ossido TFT}
-		\begin{figure}
-			\centering
-			\includegraphics[width=1\linewidth]{FISICA/ossidoTFT}
-			\caption{Ossido TFT}
-			\label{fig:ossidotft}
-		\end{figure}
-	\end{frame}
+	%\begin{frame}
+	%	\frametitle{Tecnologia Ossido TFT}
+	%	\begin{figure}
+	%		\centering
+	%		\includegraphics[width=1\linewidth]{FISICA/ossidoTFT}
+	%		\caption{Ossido TFT}
+	%		\label{fig:ossidotft}
+	%	\end{figure}
+	%\end{frame}
 	\begin{frame}
 		\frametitle{Tecnologia Ossido TFT}
 		\begin{figure}
@@ -621,5 +624,9 @@
 			\pause
 			\item Alla fine il processo, attraverso il quale si è realizzato il pannello posteriore del display, può essere facilmente esteso in una produzione di grandi schermi, potendo utilizzare tecniche, quali sputtering per la creazione dei canali 
 		\end{itemize}
+	\end{frame}
+	\begin{frame}
+		\frametitle{The end}
+			\textbf{Grazie per l'attenzione}
 	\end{frame}
 \end{document}

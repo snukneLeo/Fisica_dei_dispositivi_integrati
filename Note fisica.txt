@@ -1,0 +1,53 @@
+Il MOSFET è costituito da un condensatore, composto da un'elettrostruttura formata da tre strati di materiali diversi, affiancata da due terminali, detti source e drain.
+
+Il condensatore MOS (Metallo-Ossido-Semiconduttore) è composto da due elettrodi: il substrato ed il gate. Il substrato, detto anche body, il "corpo" del transistor, è costituito da materiale semiconduttore drogato, solitamente il silicio
+
+Il gate è realizzato con materiale conduttore
+
+I terminali di source e drain, infine, sono anch'essi composti da semiconduttore, drogato però in maniera opposta: se il substrato ha un drogaggio di tipo p i due terminali hanno drogaggio di tipo n, e viceversa.
+
+Sputtering
+La polverizzazione catodica, spruzzamento catodico o vaporizzazione catodica è un processo per il quale si ha emissione di atomi, ioni o frammenti molecolari da un materiale solido detto bersaglio (target) bombardato con un fascio di particelle energetiche (generalmente ioni). 
+
+Fotolitografia: Processo che viene eseguito per la creazione dell'ossido di TFT che viene utilizzato come componente in più per l'alternativa della tecnica ELA.
+Si intende realizzare delle strutture a strati o selezionare delle porzioni di superficie sulle quali eseguire opportuni trattamenti.
+Per fare questo è necessario avere delle maschere in cui:
+- devono essere utilizzate su divresi tipi di superficie
+- devono poter essere allineate con la massima precisione per consentire la combinazione di diversi trattamenti complementari senza errori.
+
+Processo:
+
+. Il substrato viene ricoperto da un materiale foto sensibile (chiamato photoresist o resist) che cambia le sue proprietà dopo l'esposizione alla luce (tipicamente nella banda UV).
+Con una maschera opaca è possibile controllare la polimerizzazione del resist a seguito del processo di sviluppo possiamo eliminare una parte del materiale originale ottenendo una struttura geometrica ben definita sulla superficie del substrato.
+
+
+Processo2:
+La fotolitografia è un processo di microfabbricazione usato per trasferire opportune geometrie su di un substrato
+La fotolitografia è il processo tramite il quale le configurazioni geometriche tracciate su di una maschera vengono trasferite su un sottile strato di materiale organico, chiamato resist, sensibile alla radiazione, con il quale viene preventivamente ricoperta l'intera superficie della fetta di semiconduttore. 
+Le sagome riportate sulle maschere definiscono le varie regioni di cui è composto un circuito integrato, ovvero le regioni drogate, le finestre riservate ai contatti, le aree nelle quali sono poste le piazzole di arrivo dei fili di collegamento (bonding pad), eccetera. Tali sagome vengono dapprima trasferite sul resist rimuovendo selettivamente parti di esso; se le regioni del resist da eliminare sono quelle esposte alla luce, indebolitesi per effetto della radiazione incidente, si parla di fotoresist positivo, mentre se le regioni da rimuovere sono quelle non esposte, perchè quelle investite dalla luce si sono rinforzate, si parla di fotoresist negativo.
+Il trasferimento dal resist alla fetta è ottenuto per mezzo di un processo di incisione o attacco chimico (etching) che rimuove in modo selettivo parti non mascherate di uno strato di semiconduttore. Come il processo di ossidazione, anche l'attacco chimico può avvenire per via umida (wet etching) o per via secca (dry etching).  
+
+
+
+giunzione pn -> n elettroni negativi maggioritari
+		p lacune positive minoritari
+
+
+Cosa manca:
+1) Giunzione pn ok
+2) corrente inversa e diretta ok
+3) zona di svuotamento ok
+4) polarizzazioe inversa e diretta ok
+5) diodo ok
+6) diodo ideale ok
+7) bande di energia
+8) BJT ok
+9) JFET, MOSFET ok
+10) CMOS ok
+11) Banda di valenza ok
+12) Banda di conduzione ok
+13) Banda proibita ok
+14) Livello di Fermi ok
+
+
+
