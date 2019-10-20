@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.2)  19 OCT 2019 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.2)  19 OCT 2019 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1510,76 +1510,75 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 
 ] [63
 
-] [64
-
 ]
-<"IMMAGINI/Cristalizzazione CAAS".png, id=1753, 145.9854pt x 62.8749pt>
+<"IMMAGINI/Cristalizzazione CAAS".png, id=1726, 145.9854pt x 62.8749pt>
 File: "IMMAGINI/Cristalizzazione CAAS".png Graphic file (type png)
 <use "IMMAGINI/Cristalizzazione CAAS".png>
 Package pdftex.def Info: "IMMAGINI/Cristalizzazione CAAS".png  used on input li
 ne 393.
 (pdftex.def)             Requested size: 280.74263pt x 120.92657pt.
- [65
+ [64
 
  <./IMMAGINI/Cristalizzazione CAAS.png>]
-<IMMAGINI/immagine_cristalizzazione.png, id=1782, 138.0357pt x 66.0066pt>
+<IMMAGINI/immagine_cristalizzazione.png, id=1756, 138.0357pt x 66.0066pt>
 File: IMMAGINI/immagine_cristalizzazione.png Graphic file (type png)
 <use IMMAGINI/immagine_cristalizzazione.png>
 Package pdftex.def Info: IMMAGINI/immagine_cristalizzazione.png  used on input 
 line 402.
 (pdftex.def)             Requested size: 280.74263pt x 134.25082pt.
-
-[66
+ [65
 
  <./IMMAGINI/immagine_cristalizzazione.png>]
-<IMMAGINI/immagine_cristalizzazione_CAAS.png, id=1811, 142.3719pt x 62.8749pt>
+<IMMAGINI/immagine_cristalizzazione_CAAS.png, id=1785, 142.3719pt x 62.8749pt>
 File: IMMAGINI/immagine_cristalizzazione_CAAS.png Graphic file (type png)
 <use IMMAGINI/immagine_cristalizzazione_CAAS.png>
 Package pdftex.def Info: IMMAGINI/immagine_cristalizzazione_CAAS.png  used on i
 nput line 411.
 (pdftex.def)             Requested size: 280.74263pt x 124.00623pt.
- [67
+ [66
 
- <./IMMAGINI/immagine_cristalizzazione_CAAS.png>] [68
+ <./IMMAGINI/immagine_cristalizzazione_CAAS.png>] [67
 
-] [69
+] [68
 
 ]
-<FISICA/tabella_formazione1.jpg, id=1894, 265.59225pt x 209.583pt>
+<FISICA/tabella_formazione1.jpg, id=1868, 265.59225pt x 209.583pt>
 File: FISICA/tabella_formazione1.jpg Graphic file (type jpg)
 <use FISICA/tabella_formazione1.jpg>
 Package pdftex.def Info: FISICA/tabella_formazione1.jpg  used on input line 428
 .
 (pdftex.def)             Requested size: 196.51898pt x 155.08258pt.
- [70
+ [69
 
  <./FISICA/tabella_formazione1.jpg>]
-<FISICA/tabella_formazione2.jpg, id=1922, 266.79675pt x 200.54926pt>
+<FISICA/tabella_formazione2.jpg, id=1896, 266.79675pt x 200.54926pt>
 File: FISICA/tabella_formazione2.jpg Graphic file (type jpg)
 <use FISICA/tabella_formazione2.jpg>
 Package pdftex.def Info: FISICA/tabella_formazione2.jpg  used on input line 437
 .
 (pdftex.def)             Requested size: 196.51898pt x 147.72781pt.
-
-[71
+ [70
 
  <./FISICA/tabella_formazione2.jpg>]
-<FISICA/test2.jpg, id=1951, 403.5075pt x 174.6525pt>
+<FISICA/test2.jpg, id=1924, 403.5075pt x 174.6525pt>
 File: FISICA/test2.jpg Graphic file (type jpg)
 <use FISICA/test2.jpg>
 Package pdftex.def Info: FISICA/test2.jpg  used on input line 446.
 (pdftex.def)             Requested size: 280.74263pt x 121.51505pt.
- [72
+ [71
 
  <./FISICA/test2.jpg>]
-<FISICA/test_temp.jpg, id=1979, 243.91125pt x 140.9265pt>
+<FISICA/test_temp.jpg, id=1953, 243.91125pt x 140.9265pt>
 File: FISICA/test_temp.jpg Graphic file (type jpg)
 <use FISICA/test_temp.jpg>
 Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
 (pdftex.def)             Requested size: 280.74263pt x 162.20828pt.
- [73
+ [72
 
- <./FISICA/test_temp.jpg>] [74
+ <./FISICA/test_temp.jpg>]
+[73
+
+] [74
 
 ] [75
 
@@ -1601,14 +1600,14 @@ Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
 
 ] [84
 
-]
-[85
+] [85
 
 ] [86
 
 ] [87
 
-] [88
+]
+[88
 
 ] [89
 
@@ -1626,10 +1625,8 @@ Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
 
 ] [96
 
-] [97
-
 ]
-<"FISICA/ELA cristallizzazione".jpg, id=2642, 272.81924pt x 196.93575pt>
+<"FISICA/ELA cristallizzazione".jpg, id=2615, 272.81924pt x 196.93575pt>
 File: "FISICA/ELA cristallizzazione".jpg Graphic file (type jpg)
 <use "FISICA/ELA cristallizzazione".jpg>
 Package pdftex.def Info: "FISICA/ELA cristallizzazione".jpg  used on input line
@@ -1639,9 +1636,11 @@ Package pdftex.def Info: "FISICA/ELA cristallizzazione".jpg  used on input line
 Overfull \vbox (33.07971pt too high) detected at line 562
  []
 
-[98
+[97
 
- <./FISICA/ELA cristallizzazione.jpg>] [99
+ <./FISICA/ELA cristallizzazione.jpg>] [98
+
+] [99
 
 ] [100
 
@@ -1651,10 +1650,8 @@ Overfull \vbox (33.07971pt too high) detected at line 562
 
 ] [103
 
-] [104
-
 ]
-<"FISICA/produzione LTPS + a-Si".jpg, id=2829, 274.02374pt x 195.73125pt>
+<"FISICA/produzione LTPS + a-Si".jpg, id=2803, 274.02374pt x 195.73125pt>
 File: "FISICA/produzione LTPS + a-Si".jpg Graphic file (type jpg)
 <use "FISICA/produzione LTPS + a-Si".jpg>
 Package pdftex.def Info: "FISICA/produzione LTPS + a-Si".jpg  used on input lin
@@ -1664,10 +1661,10 @@ e 599.
 Overfull \vbox (30.96513pt too high) detected at line 599
  []
 
-[105
+[104
 
  <./FISICA/produzione LTPS + a-Si.jpg>]
-<IMMAGINI/photolitography.jpg, id=2857, 501.875pt x 362.35374pt>
+<IMMAGINI/photolitography.jpg, id=2831, 501.875pt x 362.35374pt>
 File: IMMAGINI/photolitography.jpg Graphic file (type jpg)
 <use IMMAGINI/photolitography.jpg>
 Package pdftex.def Info: IMMAGINI/photolitography.jpg  used on input line 617.
@@ -1676,15 +1673,15 @@ Package pdftex.def Info: IMMAGINI/photolitography.jpg  used on input line 617.
 Overfull \vbox (12.84596pt too high) detected at line 617
  []
 
-[106
+[105
 
- <./IMMAGINI/photolitography.jpg>] [107
+ <./IMMAGINI/photolitography.jpg>] [106
+
+] [107
 
 ] [108
 
 ] [109
-
-] [110
 
 ]
 \tf@nav=\write6
@@ -1707,8 +1704,8 @@ ti".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18209 strings out of 494839
- 340703 string characters out of 6178684
+ 18207 strings out of 494839
+ 340682 string characters out of 6178684
  395318 words of memory out of 5000000
  20828 multiletter control sequences out of 15000+600000
  48007 words of font info for 45 fonts, out of 8000000 for 9000
@@ -1720,11 +1717,11 @@ hare/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on "Presentazione Fisica dei Dispostivi Integrati.pdf" (110 page
-s, 1844634 bytes).
+Output written on "Presentazione Fisica dei Dispostivi Integrati.pdf" (109 page
+s, 1842423 bytes).
 PDF statistics:
- 3069 PDF objects out of 3580 (max. 8388607)
- 2882 compressed objects within 29 object streams
- 246 named destinations out of 1000 (max. 500000)
+ 3043 PDF objects out of 3580 (max. 8388607)
+ 2857 compressed objects within 29 object streams
+ 244 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
