@@ -27,6 +27,25 @@ Le sagome riportate sulle maschere definiscono le varie regioni di cui è compos
 Il trasferimento dal resist alla fetta è ottenuto per mezzo di un processo di incisione o attacco chimico (etching) che rimuove in modo selettivo parti non mascherate di uno strato di semiconduttore. Come il processo di ossidazione, anche l'attacco chimico può avvenire per via umida (wet etching) o per via secca (dry etching).  
 
 
+Breakdown della giunzione pn
+
+Effetto Zener: generazione di coppie elettrone-lacuna nella regione di svuotamento per effetto dellintensità del campo elettrico che spezza i legami covalenti
+
+Effetto valanga: gli elettroni accelerati dal campo elettrico nella regione di svuotamento acquisiscono una energia sufficiente non solo a ionizzare gli atomi ma a generare elettroni capaci di ionizzare altri atomi
+
+Legame covalenete: sono i legami che ci sono tra le sostanze drogate
+
+Eletroni di valenza: sono elettroni che sono legati dagli altri materiali.
+
+Quando si rompe un legame covalenete l'elettrone si libera e lascia una lacuna.
+
+Corrente di deriva: gli elettroni e le lacune si spostano in base ad un campo elettrico formatosi esternamente.
+
+Corrente di diffusione: elettroni e lacune si spostano perchè sono in grandi quantità
+
+Aumentando la tensione di polarizzazione inversa la corrente rimane praticamente costante fino a quando non viene raggiunto un valore detto tensione di breakdown, oltre i quale la corrente aumenta molto rapidamente a tensione praticamente costante 
+
+
 
 giunzione pn -> n elettroni negativi maggioritari
 		p lacune positive minoritari

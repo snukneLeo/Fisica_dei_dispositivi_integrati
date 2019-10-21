@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.2)  19 OCT 2019 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.2)  21 OCT 2019 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1341,21 +1341,21 @@ Package pdftex.def Info: FISICA/sistema_di_conf.jpg  used on input line 154.
 
 ] [24
 
+] [25
+
 ]
-<IMMAGINI/oled.jpg, id=684, 1191.45125pt x 757.83125pt>
+<IMMAGINI/oled.jpg, id=711, 1191.45125pt x 757.83125pt>
 File: IMMAGINI/oled.jpg Graphic file (type jpg)
 <use IMMAGINI/oled.jpg>
-Package pdftex.def Info: IMMAGINI/oled.jpg  used on input line 188.
+Package pdftex.def Info: IMMAGINI/oled.jpg  used on input line 194.
 (pdftex.def)             Requested size: 280.74263pt x 178.56447pt.
 
-Overfull \vbox (8.98444pt too high) detected at line 188
+Overfull \vbox (8.98444pt too high) detected at line 194
  []
 
-[25
+[26
 
- <./IMMAGINI/oled.jpg>] [26
-
-] [27
+ <./IMMAGINI/oled.jpg>] [27
 
 ] [28
 
@@ -1369,60 +1369,60 @@ Overfull \vbox (8.98444pt too high) detected at line 188
 
 ] [33
 
+] [34
+
 ]
-<FISICA/tft_oled_driver.jpg, id=924, 170.43675pt x 131.89275pt>
+<FISICA/tft_oled_driver.jpg, id=950, 170.43675pt x 131.89275pt>
 File: FISICA/tft_oled_driver.jpg Graphic file (type jpg)
 <use FISICA/tft_oled_driver.jpg>
-Package pdftex.def Info: FISICA/tft_oled_driver.jpg  used on input line 233.
+Package pdftex.def Info: FISICA/tft_oled_driver.jpg  used on input line 239.
 (pdftex.def)             Requested size: 180.06921pt x 139.35683pt.
- [34
+ [35
 
- <./FISICA/tft_oled_driver.jpg>] [35
-
-] [36
+ <./FISICA/tft_oled_driver.jpg>] [36
 
 ] [37
 
+] [38
+
 ]
-<FISICA/tft_oled_maggiore.jpg, id=1032, 225.2415pt x 173.448pt>
+<FISICA/tft_oled_maggiore.jpg, id=1058, 225.2415pt x 173.448pt>
 File: FISICA/tft_oled_maggiore.jpg Graphic file (type jpg)
 <use FISICA/tft_oled_maggiore.jpg>
-Package pdftex.def Info: FISICA/tft_oled_maggiore.jpg  used on input line 259.
+Package pdftex.def Info: FISICA/tft_oled_maggiore.jpg  used on input line 265.
 (pdftex.def)             Requested size: 196.51898pt x 151.33258pt.
 
-Overfull \vbox (13.75255pt too high) detected at line 259
+Overfull \vbox (13.75255pt too high) detected at line 265
  []
 
-[38
+[39
 
- <./FISICA/tft_oled_maggiore.jpg>] [39
+ <./FISICA/tft_oled_maggiore.jpg>] [40
 
 ]
-<FISICA/current_mirror.jpg, id=1086, 230.0595pt x 133.09724pt>
+<FISICA/current_mirror.jpg, id=1113, 230.0595pt x 133.09724pt>
 File: FISICA/current_mirror.jpg Graphic file (type jpg)
 <use FISICA/current_mirror.jpg>
-Package pdftex.def Info: FISICA/current_mirror.jpg  used on input line 274.
+Package pdftex.def Info: FISICA/current_mirror.jpg  used on input line 280.
 (pdftex.def)             Requested size: 280.74263pt x 162.43729pt.
- [40
+ [41
 
  <./FISICA/current_mirror.jpg>]
-[41
-
-]
-<FISICA/one_tras_current.jpg, id=1141, 230.66174pt x 243.91125pt>
-File: FISICA/one_tras_current.jpg Graphic file (type jpg)
-<use FISICA/one_tras_current.jpg>
-Package pdftex.def Info: FISICA/one_tras_current.jpg  used on input line 289.
-(pdftex.def)             Requested size: 168.44728pt x 178.12444pt.
-
-Overfull \vbox (8.5444pt too high) detected at line 289
- []
-
 [42
 
- <./FISICA/one_tras_current.jpg>] [43
+]
+<FISICA/one_tras_current.jpg, id=1167, 230.66174pt x 243.91125pt>
+File: FISICA/one_tras_current.jpg Graphic file (type jpg)
+<use FISICA/one_tras_current.jpg>
+Package pdftex.def Info: FISICA/one_tras_current.jpg  used on input line 295.
+(pdftex.def)             Requested size: 168.44728pt x 178.12444pt.
 
-] [44
+Overfull \vbox (8.5444pt too high) detected at line 295
+ []
+
+[43
+
+ <./FISICA/one_tras_current.jpg>] [44
 
 ] [45
 
@@ -1434,10 +1434,10 @@ Overfull \vbox (8.5444pt too high) detected at line 289
 
 ] [49
 
-]
-[50
+] [50
 
-] [51
+]
+[51
 
 ] [52
 
@@ -1447,62 +1447,62 @@ Overfull \vbox (8.5444pt too high) detected at line 289
 
 ] [55
 
+] [56
+
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 358
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 364
 .
  (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 358.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 364.
 
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 358
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 364
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 358
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 364
 .
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 358.
+(Font)              <12> on input line 364.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 358.
+(Font)              <8> on input line 364.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 358.
-LaTeX Font Info:    Try loading font information for U+msa on input line 358.
+(Font)              <6> on input line 364.
+LaTeX Font Info:    Try loading font information for U+msa on input line 364.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 358.
+LaTeX Font Info:    Try loading font information for U+msb on input line 364.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 358.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 364.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 358.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 364.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 358.
- [56
-
-] [57
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 364.
+ [57
 
 ] [58
 
-]
-[59
+] [59
 
-] [60
+]
+[60
 
 ] [61
 
@@ -1510,75 +1510,75 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 
 ] [63
 
+] [64
+
 ]
-<"IMMAGINI/Cristalizzazione CAAS".png, id=1726, 145.9854pt x 62.8749pt>
+<"IMMAGINI/Cristalizzazione CAAS".png, id=1753, 145.9854pt x 62.8749pt>
 File: "IMMAGINI/Cristalizzazione CAAS".png Graphic file (type png)
 <use "IMMAGINI/Cristalizzazione CAAS".png>
 Package pdftex.def Info: "IMMAGINI/Cristalizzazione CAAS".png  used on input li
-ne 393.
+ne 399.
 (pdftex.def)             Requested size: 280.74263pt x 120.92657pt.
- [64
+ [65
 
  <./IMMAGINI/Cristalizzazione CAAS.png>]
-<IMMAGINI/immagine_cristalizzazione.png, id=1756, 138.0357pt x 66.0066pt>
+<IMMAGINI/immagine_cristalizzazione.png, id=1782, 138.0357pt x 66.0066pt>
 File: IMMAGINI/immagine_cristalizzazione.png Graphic file (type png)
 <use IMMAGINI/immagine_cristalizzazione.png>
 Package pdftex.def Info: IMMAGINI/immagine_cristalizzazione.png  used on input 
-line 402.
+line 408.
 (pdftex.def)             Requested size: 280.74263pt x 134.25082pt.
- [65
+ [66
 
  <./IMMAGINI/immagine_cristalizzazione.png>]
-<IMMAGINI/immagine_cristalizzazione_CAAS.png, id=1785, 142.3719pt x 62.8749pt>
+<IMMAGINI/immagine_cristalizzazione_CAAS.png, id=1811, 142.3719pt x 62.8749pt>
 File: IMMAGINI/immagine_cristalizzazione_CAAS.png Graphic file (type png)
 <use IMMAGINI/immagine_cristalizzazione_CAAS.png>
 Package pdftex.def Info: IMMAGINI/immagine_cristalizzazione_CAAS.png  used on i
-nput line 411.
+nput line 417.
 (pdftex.def)             Requested size: 280.74263pt x 124.00623pt.
- [66
+ [67
 
- <./IMMAGINI/immagine_cristalizzazione_CAAS.png>] [67
+ <./IMMAGINI/immagine_cristalizzazione_CAAS.png>] [68
 
-] [68
+] [69
 
 ]
-<FISICA/tabella_formazione1.jpg, id=1868, 265.59225pt x 209.583pt>
+<FISICA/tabella_formazione1.jpg, id=1894, 265.59225pt x 209.583pt>
 File: FISICA/tabella_formazione1.jpg Graphic file (type jpg)
 <use FISICA/tabella_formazione1.jpg>
-Package pdftex.def Info: FISICA/tabella_formazione1.jpg  used on input line 428
+Package pdftex.def Info: FISICA/tabella_formazione1.jpg  used on input line 434
 .
 (pdftex.def)             Requested size: 196.51898pt x 155.08258pt.
- [69
-
- <./FISICA/tabella_formazione1.jpg>]
-<FISICA/tabella_formazione2.jpg, id=1896, 266.79675pt x 200.54926pt>
-File: FISICA/tabella_formazione2.jpg Graphic file (type jpg)
-<use FISICA/tabella_formazione2.jpg>
-Package pdftex.def Info: FISICA/tabella_formazione2.jpg  used on input line 437
-.
-(pdftex.def)             Requested size: 196.51898pt x 147.72781pt.
  [70
 
- <./FISICA/tabella_formazione2.jpg>]
-<FISICA/test2.jpg, id=1924, 403.5075pt x 174.6525pt>
-File: FISICA/test2.jpg Graphic file (type jpg)
-<use FISICA/test2.jpg>
-Package pdftex.def Info: FISICA/test2.jpg  used on input line 446.
-(pdftex.def)             Requested size: 280.74263pt x 121.51505pt.
+ <./FISICA/tabella_formazione1.jpg>]
+<FISICA/tabella_formazione2.jpg, id=1922, 266.79675pt x 200.54926pt>
+File: FISICA/tabella_formazione2.jpg Graphic file (type jpg)
+<use FISICA/tabella_formazione2.jpg>
+Package pdftex.def Info: FISICA/tabella_formazione2.jpg  used on input line 443
+.
+(pdftex.def)             Requested size: 196.51898pt x 147.72781pt.
  [71
 
- <./FISICA/test2.jpg>]
-<FISICA/test_temp.jpg, id=1953, 243.91125pt x 140.9265pt>
-File: FISICA/test_temp.jpg Graphic file (type jpg)
-<use FISICA/test_temp.jpg>
-Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
-(pdftex.def)             Requested size: 280.74263pt x 162.20828pt.
+ <./FISICA/tabella_formazione2.jpg>]
+<FISICA/test2.jpg, id=1951, 403.5075pt x 174.6525pt>
+File: FISICA/test2.jpg Graphic file (type jpg)
+<use FISICA/test2.jpg>
+Package pdftex.def Info: FISICA/test2.jpg  used on input line 452.
+(pdftex.def)             Requested size: 280.74263pt x 121.51505pt.
  [72
 
- <./FISICA/test_temp.jpg>]
-[73
+ <./FISICA/test2.jpg>]
+<FISICA/test_temp.jpg, id=1979, 243.91125pt x 140.9265pt>
+File: FISICA/test_temp.jpg Graphic file (type jpg)
+<use FISICA/test_temp.jpg>
+Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 461.
+(pdftex.def)             Requested size: 280.74263pt x 162.20828pt.
+ [73
 
-] [74
+ <./FISICA/test_temp.jpg>]
+[74
 
 ] [75
 
@@ -1606,10 +1606,10 @@ Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
 
 ] [87
 
-]
-[88
+] [88
 
-] [89
+]
+[89
 
 ] [90
 
@@ -1623,22 +1623,22 @@ Package pdftex.def Info: FISICA/test_temp.jpg  used on input line 455.
 
 ] [95
 
-] [96
-
 ]
-<"FISICA/ELA cristallizzazione".jpg, id=2615, 272.81924pt x 196.93575pt>
+<"FISICA/ELA cristallizzazione".jpg, id=2589, 272.81924pt x 196.93575pt>
 File: "FISICA/ELA cristallizzazione".jpg Graphic file (type jpg)
 <use "FISICA/ELA cristallizzazione".jpg>
 Package pdftex.def Info: "FISICA/ELA cristallizzazione".jpg  used on input line
- 562.
+ 560.
 (pdftex.def)             Requested size: 280.74263pt x 202.65974pt.
 
-Overfull \vbox (33.07971pt too high) detected at line 562
+Overfull \vbox (33.07971pt too high) detected at line 560
  []
 
-[97
+[96
 
- <./FISICA/ELA cristallizzazione.jpg>] [98
+ <./FISICA/ELA cristallizzazione.jpg>] [97
+
+] [98
 
 ] [99
 
@@ -1648,40 +1648,43 @@ Overfull \vbox (33.07971pt too high) detected at line 562
 
 ] [102
 
-] [103
+]
+[103
+
+] [104
 
 ]
-<"FISICA/produzione LTPS + a-Si".jpg, id=2803, 274.02374pt x 195.73125pt>
+<"FISICA/produzione LTPS + a-Si".jpg, id=2829, 274.02374pt x 195.73125pt>
 File: "FISICA/produzione LTPS + a-Si".jpg Graphic file (type jpg)
 <use "FISICA/produzione LTPS + a-Si".jpg>
 Package pdftex.def Info: "FISICA/produzione LTPS + a-Si".jpg  used on input lin
-e 599.
+e 605.
 (pdftex.def)             Requested size: 280.74263pt x 200.54517pt.
 
-Overfull \vbox (30.96513pt too high) detected at line 599
- []
-
-[104
-
- <./FISICA/produzione LTPS + a-Si.jpg>]
-<IMMAGINI/photolitography.jpg, id=2831, 501.875pt x 362.35374pt>
-File: IMMAGINI/photolitography.jpg Graphic file (type jpg)
-<use IMMAGINI/photolitography.jpg>
-Package pdftex.def Info: IMMAGINI/photolitography.jpg  used on input line 617.
-(pdftex.def)             Requested size: 252.66664pt x 182.426pt.
-
-Overfull \vbox (12.84596pt too high) detected at line 617
+Overfull \vbox (30.96513pt too high) detected at line 605
  []
 
 [105
 
- <./IMMAGINI/photolitography.jpg>] [106
+ <./FISICA/produzione LTPS + a-Si.jpg>]
+<IMMAGINI/photolitography.jpg, id=2857, 501.875pt x 362.35374pt>
+File: IMMAGINI/photolitography.jpg Graphic file (type jpg)
+<use IMMAGINI/photolitography.jpg>
+Package pdftex.def Info: IMMAGINI/photolitography.jpg  used on input line 623.
+(pdftex.def)             Requested size: 252.66664pt x 182.426pt.
 
-] [107
+Overfull \vbox (12.84596pt too high) detected at line 623
+ []
+
+[106
+
+ <./IMMAGINI/photolitography.jpg>] [107
 
 ] [108
 
 ] [109
+
+] [110
 
 ]
 \tf@nav=\write6
@@ -1693,21 +1696,21 @@ Overfull \vbox (12.84596pt too high) detected at line 617
 \tf@snm=\write8
 \openout8 = `"Presentazione Fisica dei Dispostivi Integrati.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 632.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 632.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 638.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 638.
 
 (./Presentazione Fisica dei Dispostivi Integrati.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 632.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 632.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 638.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 638.
 Package rerunfilecheck Info: File `"Presentazione Fisica dei Dispostivi Integra
 ti".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18207 strings out of 494839
- 340682 string characters out of 6178684
+ 18211 strings out of 494839
+ 340721 string characters out of 6178684
  395318 words of memory out of 5000000
- 20828 multiletter control sequences out of 15000+600000
+ 20830 multiletter control sequences out of 15000+600000
  48007 words of font info for 45 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  56i,16n,59p,841b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1717,11 +1720,11 @@ hare/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmss8.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on "Presentazione Fisica dei Dispostivi Integrati.pdf" (109 page
-s, 1842423 bytes).
+Output written on "Presentazione Fisica dei Dispostivi Integrati.pdf" (110 page
+s, 1843937 bytes).
 PDF statistics:
- 3043 PDF objects out of 3580 (max. 8388607)
- 2857 compressed objects within 29 object streams
- 244 named destinations out of 1000 (max. 500000)
+ 3069 PDF objects out of 3580 (max. 8388607)
+ 2882 compressed objects within 29 object streams
+ 246 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
